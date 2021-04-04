@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.TowerDefense.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\Phili\OneDrive\Desktop\Programing suit\Classes\CST 326 Game development\TowerDefense\.idea\.idea.TowerDefense\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
