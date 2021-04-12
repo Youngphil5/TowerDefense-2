@@ -7,16 +7,12 @@ public class DropTower : MonoBehaviour
     public List<Enemy> currentEnemies;
     public Enemy currentTarget;
     public Transform turret;
-    private delegate void enemySubscription(Enemy enemy);
-
     private LineRenderer laser;
     public float hitAmount = 10;
 
     void Start()
     {
         laser = GetComponent<LineRenderer>();
-        
-        //laser.positionCount = 2;
         laser.SetPosition(0, turret.transform.position);
     }
 

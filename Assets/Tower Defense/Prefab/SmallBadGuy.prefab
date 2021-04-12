@@ -307,7 +307,7 @@ MonoBehaviour:
   route: {fileID: 0}
   coinWorth: 0
   health: 2
-  speed: 0.5
+  speed: 1.04
   coin: {fileID: 0}
   healthBar: {fileID: 9129881305745844363}
   DeathEvent:
